@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 2ba4b55c85502e04ba5679535d996d8a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dissappearing_0
+    21300002: dissappearing_1
+    21300004: dissappearing_2
+    21300006: dissappearing_3
+    21300008: dissappearing_4
+    21300010: dissappearing_5
+    21300012: dissappearing_6
+    21300014: dissappearing_7
+    21300016: dissappearing_8
+    21300018: dissappearing_9
+    21300020: dissappearing_10
+    21300022: dissappearing_11
+    21300024: dissappearing_12
+    21300026: dissappearing_13
+    21300028: dissappearing_14
+    21300030: dissappearing_15
+    21300032: dissappearing_16
+    21300034: dissappearing_17
+    21300036: dissappearing_18
+    21300038: dissappearing_19
+    21300040: dissappearing_20
+    21300042: dissappearing_21
+    21300044: dissappearing_22
+    21300046: dissappearing_23
+    21300048: dissappearing_24
+    21300050: dissappearing_25
+    21300052: dissappearing_26
+    21300054: dissappearing_27
+    21300056: dissappearing_28
+    21300058: dissappearing_29
+    21300060: dissappearing_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dissappearing_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1881
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1879
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1881
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1699
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1699
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1699
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1699
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1514
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1490
+        width: 206
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1488
+        width: 216
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1302
+        width: 217
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1304
+        width: 215
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1308
+        width: 196
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1122
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1122
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_15
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1122
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 936
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 936
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 936
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 750
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 750
+        width: 127
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 750
+        width: 125
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 565
+        width: 125
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 565
+        width: 124
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 563
+        width: 129
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 373
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 372
+        width: 151
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_27
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 373
+        width: 147
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 191
+        width: 119
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_29
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 199
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dissappearing_30
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 211
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
